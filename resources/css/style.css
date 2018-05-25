@@ -10,3 +10,10 @@ body  {
   align-self: center;
   background-color: black;
 }
+
+#logo img {
+  height: 1.5rem;
+  width: auto;
+  padding-left: 0.5rem;
+  padding-right: 1rem;
+}
