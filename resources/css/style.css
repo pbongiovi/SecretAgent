@@ -11,6 +11,11 @@ body  {
   background-color: black;
 }
 
+.logocontainer  {
+  width: 100%
+
+}
+
 #logo img {
   height: 1.5rem;
   width: auto;
