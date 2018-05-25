@@ -1,10 +1,12 @@
 body  {
   font-size: 18px;
   font-family: helvetica;
+  font-color: white;
 }
 
 #logo {
   width: 960px;
   align-self: center;
+  f
   background-color: black;
 }
